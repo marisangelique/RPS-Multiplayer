@@ -2,31 +2,3 @@ body{
     background: url("../images/background.png")
 }
 
-.signUp{
-    padding: 20px;
-    text-align: center;
-}
-
-h1{
-    font-family: 'Staatliches', cursive;
-    font-size: 40px;
-}
-
-h3{
-    font-family: 'Staatliches', cursive;
-    font-size: 30px;
-}
-
-.nameInput{
-    font-size: 20px;
-}
-
-.begin{
-    font-family: 'Staatliches', cursive;
-    background-color: black;
-    color: white;
-    height: 35px;
-    width: 70px;
-    font-size: 20px;
-    border-radius: 8px;
-}
